@@ -21,4 +21,4 @@ This project aimed to analyze the Indian energy drink market for Codex. The goal
 2. **Targeted Marketing:** Emphasize product availability, enhance brand reputation, and showcase appealing taste preferences.
 3. **Ideal Price Range:** Consider pricing strategies within the Rs 50-99 range, preferred by a significant portion of the population.
 
-For a detailed analysis, refer to the **Codex Market Analysis Report** above
+For a detailed analysis, refer to the [Codex Market Analysis Report](https://github.com/HussainM899/Codex-Market-Research---Atomcamp-Portfolio-Project/blob/main/Codex%20Market%20Analysis%20Report%20(Hussain%20DS4%20Violet).pdf).
